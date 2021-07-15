@@ -9,7 +9,7 @@ export const data = [
     },
     {
         "id": 2,
-        "nome": "Hot Burger",
+        "nome": "Hot Burger da casa",
         "categoria":"Burger",
         "ingredientes": "pão, molho da casa, hamburger 200g, Salsicha, tomate, queijo",
         "preco": 17.00,
@@ -57,7 +57,7 @@ export const data = [
     },
     {
         "id": 8,
-        "nome": "Quatro Queijos",
+        "nome": "Cinco Queijos",
         "categoria":"pizza",
         "ingredientes": "molho de tomate, muçarela, provolone, requeijão cremoso, parmesão, azeitonas, oregano",
         "preco": 45.00,
@@ -65,7 +65,7 @@ export const data = [
     },
     {
         "id": 9,
-        "nome": "Baiana",
+        "nome": "Bantaneira",
         "categoria":"pizza",
         "ingredientes": "molho de tomate, muçarela, pimenta,calabreza, azeitonas, oregano",
         "preco": 40.00,
@@ -73,7 +73,7 @@ export const data = [
     },
     {
         "id": 10,
-        "nome": "Calabreza",
+        "nome": "Calabreza ao creme",
         "categoria":"pizza",
         "ingredientes": "molho de tomate, muçarela, calabreza, azeitonas, oregano",
         "preco": 35.00,
@@ -109,8 +109,8 @@ export const data = [
       "id": 13,
       "nome": "Burger Secreto",
       "categoria":"Burger",
-      "ingredientes": "pão, molho da casa, hamburger 400g, alface, tomate, queijo",
-      "preco": 25.00,
+      "ingredientes": "pão, molho da casa, hamburger 400g, alface, tomate, queijo prato",
+      "preco": 22.00,
       "imagem": "hambuger/lanche5.png"
     }
 ];

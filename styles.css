@@ -82,7 +82,7 @@ label{
     font-family: fantasy;
     margin-left: 20px;
 }
-.menu_card1{
+#menu_card1{
     width: 80px;
     height: 80px;
     border-radius: 10px;
@@ -94,7 +94,7 @@ label{
     top: 0px;
     position: absolute;
 }
-.menu_card2{
+#menu_card2{
     width: 80px;
     height: 80px;
     border-radius: 10px;
@@ -163,7 +163,15 @@ label{
   .menu-price {
     color: #A9A9A9;
   }
-  
+.pedido1{
+  width: 450px;
+  height: 800px;
+  left: 650px;
+  position: absolute;
+  background-color: white;
+
+  }
+
 
 
     
